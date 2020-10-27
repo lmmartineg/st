@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Celda
+comment0.text=\r\n\r\n\ @author\ User\r\n
+comment1.params=esMuro\ esSalida\ tieneArepita\ caracter
+comment1.target=Celda(boolean,\ boolean,\ boolean,\ Caracter)
+comment2.params=
+comment2.target=char\ caracterCelda()
+numComments=3

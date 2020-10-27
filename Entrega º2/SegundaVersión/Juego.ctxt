@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=archivo
+comment1.target=Juego(java.lang.String)
+comment2.params=in
+comment2.target=void\ leerVarios(java.util.Scanner)
+comment3.params=
+comment3.target=void\ jugar()
+comment4.params=nuevaFila\ nuevaCol
+comment4.target=boolean\ validarCasilla(int,\ int)
+comment5.params=
+comment5.target=void\ encontrarRuta()
+comment6.params=fila\ col
+comment6.target=boolean\ encontrarRutaAux(int,\ int)
+numComments=7
